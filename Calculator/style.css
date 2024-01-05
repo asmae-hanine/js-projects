@@ -6,9 +6,8 @@
 body{
     padding: 0;
     margin: 0;
-    background:linear-gradient(to right , #00aaff , #00ff6c);
+    background:linear-gradient(to right , #add8e6 ,#ffb6c1 );
 }
-
 .calculator-grid{
     display: grid;
     justify-content: center;
